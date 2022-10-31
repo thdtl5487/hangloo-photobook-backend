@@ -1,4 +1,4 @@
-package com.aileader.photobook.hangloophotobook;
+package kr.co.hangloo.hangloo;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
